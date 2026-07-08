@@ -1,0 +1,16 @@
+name: qdmlimits
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.8
+  - numpy
+  - scipy
+  - matplotlib
+  - requests
+  - pip
+  - pip:
+    - pymupdf
+    - opencv-python
+    - Pillow
+    - -e .
