@@ -1,6 +1,6 @@
 [build-system]
 requires = ["setuptools>=64", "wheel"]
-build-backend = "setuptools.backends.legacy:build"
+build-backend = "setuptools.build_meta"
 
 [project]
 name = "qdmlimits"
@@ -13,9 +13,14 @@ dependencies = [
     "scipy",
     "matplotlib",
     "requests",
+    "pyyaml",
     "pymupdf",
     "opencv-python",
     "Pillow",
+    "ipympl",
+    "plotly",
+    "ipykernel",
+    "nbformat>=4.2.0",
 ]
 
 [project.scripts]

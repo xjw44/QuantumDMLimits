@@ -10,7 +10,11 @@ dependencies:
   - requests
   - pip
   - pip:
+    - pyyaml
     - pymupdf
     - opencv-python
     - Pillow
-    - -e .
+    - ipympl
+    - plotly
+    - ipykernel
+    - "nbformat>=4.2.0"
