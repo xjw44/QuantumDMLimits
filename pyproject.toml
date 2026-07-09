@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qdmlimits"
+version = "0.1.0"
+description = "Plotting tool for compiling public dark matter direct detection limits."
+license = { text = "MIT" }
+requires-python = ">=3.8"
+dependencies = [
+    "numpy",
+    "scipy",
+    "matplotlib",
+    "requests",
+    "pyyaml",
+    "pymupdf",
+    "opencv-python",
+    "Pillow",
+    "ipympl",
+    "plotly",
+    "ipykernel",
+    "nbformat>=4.2.0",
+]
+
+[project.scripts]
+digitize-limits = "qdmlimits.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["qdmlimits*"]

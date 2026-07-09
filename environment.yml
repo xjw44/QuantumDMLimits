@@ -1,0 +1,20 @@
+name: qdmlimits
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.8
+  - numpy
+  - scipy
+  - matplotlib
+  - requests
+  - pip
+  - pip:
+    - pyyaml
+    - pymupdf
+    - opencv-python
+    - Pillow
+    - ipympl
+    - plotly
+    - ipykernel
+    - "nbformat>=4.2.0"
