@@ -24,9 +24,17 @@ pip install -e .
 
 Then open any `notebooks/digitize_*.ipynb` to extract a new curve, or `notebooks/plot_curves.ipynb` to reproduce the combined limit plot.
 
-## Curves currently included
+---
 
-- DarkSide-50 (NQ analysis)
-- LZ (observed, via HEPData)
-- PandaX-4T
-- SuperCDMS SNOLAB HV (projected)
+[<img align="right" width="300" src="curves/dm_limits_comparison.png">](curves/dm_limits_comparison.pdf)
+
+### **SuperCDMS SNOLAB focused comparison**
+Plot ([pdf](curves/dm_limits_comparison.pdf), [png](curves/dm_limits_comparison.png))
+
+References:
+- Author A. et al., *Dummy Title for DarkSide-50 NQ Analysis*, [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
+- Author B. et al., *Dummy Title for LZ Observed Limit*, [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
+- Author C. et al., *Dummy Title for PandaX-4T*, [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
+- Author D. et al., *Dummy Title for SuperCDMS SNOLAB HV Projected Sensitivity*, [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
+
+---
