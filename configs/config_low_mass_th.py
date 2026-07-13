@@ -41,7 +41,7 @@ sigma_e_summary = {
         "sensor": "MKID", # MeV
     },
     "QUBIT 2027": {
-        "baseline_sigma_e_exp": 5*1e-3, # ev
+        "baseline_sigma_e_exp": 1*1e-3, # ev
         # "baseline_sigma_e_abs_/exp": 6*1e-3, # ev
         # "total_eff": 0.6, # ev
         "nr_dm_mass_th_spin_ind_exp": False, # MeV

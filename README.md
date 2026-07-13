@@ -38,3 +38,19 @@ References:
 - *SuperCDMS SNOLAB HV Ge Projected Sensitivity*, [arXiv:2203.08463](https://arxiv.org/pdf/2203.08463)
 
 ---
+
+[<img align="right" width="300" src="plots/low_mass_th/low_mass_th.png">](plots/low_mass_th/low_mass_th.pdf)
+
+### **Low-mass threshold comparison**
+Plot ([pdf](plots/low_mass_th/low_mass_th.pdf), [png](plots/low_mass_th/low_mass_th.png))
+
+References:
+- *SuperCDMS CPD 2021*, [PHYSICAL REVIEW LETTERS 127, 061801 (2021)](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.127.061801)
+- *CRESST 2024*, [arXiv:2405.06527](https://arxiv.org/pdf/2405.06527)
+- *TESSERACT 2025*, [Phys. Rev. Lett. 135, 161002](https://journals.aps.org/prl/abstract/10.1103/hsrl-crvf)
+- *KIPM 2024*, [PHYSICAL REVIEW APPLIED 22, 044045 (2024)](https://journals.aps.org/prapplied/pdf/10.1103/PhysRevApplied.22.044045)
+- *BULLKID 2024*, [European Physical Journal C 84, 663 (2024)](https://link.springer.com/article/10.1140/epjc/s10052-024-12714-9)
+- *SQUAT 2024 (expected)*, [PHYSICAL REVIEW APPLIED 22, 054009 (2024)](https://journals.aps.org/prapplied/pdf/10.1103/PhysRevApplied.22.054009)
+- *PAA-KIPM 2025 (expected)*, [CPAD 2025](https://indico.global/event/14966/contributions/134007/)
+
+---
