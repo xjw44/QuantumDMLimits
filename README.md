@@ -1,6 +1,7 @@
 # QuantumDMLimits
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21344219.svg)](https://doi.org/10.5281/zenodo.21344219)
 
 An open-source plotting tool for compiling public dark matter direct detection limits. The goal of this repository is to collect exclusion limits and projected sensitivities from published dark matter direct detection experiments (e.g. DarkSide, LZ, PandaX, SuperCDMS) into a common set of digitized curves, and to provide notebooks for reproducing publication-quality comparison plots from them.
 
